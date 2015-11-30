@@ -1,5 +1,5 @@
 <?php
-$to = "rongli.han@sasktel.com, geoff.ellis@sasktel.com";
+$to = "sample@example.com";
 $subject = "Test for Responsive HTML Email Template";
 
 $message = <<<EOF
